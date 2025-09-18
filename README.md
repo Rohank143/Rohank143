@@ -13,7 +13,7 @@
 
 - 🙋‍♂️ All about me is at **[My Website](https://rohank143.github.io/Portfolio1/#/)**
 
-- 🔭 I’m currently working on `Something Intresting`.
+- 🔭 I’m currently working on `Fintech Solutions `.
 
 - 🌱 I’m currently learning `React js`
 
