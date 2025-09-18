@@ -65,5 +65,5 @@
 
 <div align="center">
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=RohanK143&show_icons=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyajit4419&" alt="soumyajit" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyajit4419&" alt="RohanK143" />
 </div>
