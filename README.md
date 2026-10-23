@@ -38,3 +38,11 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=RohanK143&show_icons=true" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RohanK143&" alt="RohanK143" />
 </div>
+
+<br/>
+
+## 🏆 GitHub Badges & Achievements:
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rohank143&theme=radical&no-frame=true&margin-w=15" alt="Rohank143 Trophies" />
+</div>
