@@ -49,8 +49,8 @@
 
 <br/>
 
-## 🏆 GitHub Badges & Achievements:
+##  🏆 GitHub Badges & Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rohank143&theme=radical&no-frame=true&margin-w=15" alt="Rohank143 Trophies" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Rohank143&theme=radical&no-frame=true&margin-w=15" alt="Rohank143 GitHub Trophies" />
 </div>
